@@ -1,0 +1,5 @@
+*.title=Hall of fame
+uname.type = textfield
+uname.label = Enter your name
+uname.default = Name
+uname.width = 340
